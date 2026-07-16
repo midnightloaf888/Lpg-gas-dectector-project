@@ -15,7 +15,7 @@ void app_main(void)
         gpio_set_level(LED_PIN, 1);
         printf("LED ON\n");
         sleep(1);
-
+        
         gpio_set_level(LED_PIN, 0);
         printf("LED OFF\n");
         sleep(1);
