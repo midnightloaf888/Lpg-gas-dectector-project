@@ -1,0 +1,190 @@
+ADC Value : 465
+Gas Level : 10%
+Status    : SAFE
+-----------------------------
+ADC Value : 463
+Gas Level : 10%
+Status    : SAFE
+-----------------------------
+ADC Value : 464
+Gas Level : 10%
+Status    : SAFE
+-----------------------------
+ADC Value : 461
+Gas Level : 10%
+Status    : SAFE
+-----------------------------
+ADC Value : 459
+Gas Level : 9%
+Status    : SAFE
+-----------------------------
+ADC Value : 463
+Gas Level : 10%
+Status    : SAFE
+-----------------------------
+ADC Value : 496
+Gas Level : 16%
+Status    : SAFE
+-----------------------------
+ADC Value : 531
+Gas Level : 21%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 546
+Gas Level : 24%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 562
+Gas Level : 27%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 560
+Gas Level : 26%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 657
+Gas Level : 42%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 688
+Gas Level : 48%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 689
+Gas Level : 48%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 686
+Gas Level : 47%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 675
+Gas Level : 45%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 655
+Gas Level : 42%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 634
+Gas Level : 39%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 621
+Gas Level : 36%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 631
+Gas Level : 38%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 880
+Gas Level : 80%
+Status    : WARNING
+-----------------------------
+ADC Value : 867
+Gas Level : 77%
+Status    : WARNING
+-----------------------------
+ADC Value : 798
+Gas Level : 66%
+Status    : WARNING
+-----------------------------
+ADC Value : 734
+Gas Level : 55%
+Status    : WARNING
+-----------------------------
+ADC Value : 689
+Gas Level : 48%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 656
+Gas Level : 42%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 902
+Gas Level : 83%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 1591
+Gas Level : 100%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 1457
+Gas Level : 100%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 1337
+Gas Level : 100%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 1194
+Gas Level : 100%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 1165
+Gas Level : 100%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 1488
+Gas Level : 100%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 1571
+Gas Level : 100%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 1360
+Gas Level : 100%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 1191
+Gas Level : 100%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 1055
+Gas Level : 100%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 948
+Gas Level : 91%
+Status    : LPG DETECTED
+-----------------------------
+ADC Value : 878
+Gas Level : 79%
+Status    : WARNING
+-----------------------------
+ADC Value : 821
+Gas Level : 70%
+Status    : WARNING
+-----------------------------
+ADC Value : 777
+Gas Level : 62%
+Status    : WARNING
+-----------------------------
+ADC Value : 751
+Gas Level : 58%
+Status    : WARNING
+-----------------------------
+ADC Value : 725
+Gas Level : 54%
+Status    : WARNING
+-----------------------------
+ADC Value : 699
+Gas Level : 49%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 683
+Gas Level : 47%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 662
+Gas Level : 43%
+Status    : LOW GAS
+-----------------------------
+ADC Value : 481
+Gas Level : 13%
+Status    : SAFE
+-----------------------------
+
+PS C:\Users\Administrator\Documents\aaryani test projects\sample_projectgas leak> 
