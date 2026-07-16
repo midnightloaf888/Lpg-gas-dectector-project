@@ -1,0 +1,8 @@
+Day 2 - GPIO Fundamentals
+
+Today I spent time understanding the basics of GPIO (General Purpose Input/Output) on the ESP32. 
+I read through the ESP-IDF documentation and user manual to understand how the GPIO pins work and how they can be configured as inputs or outputs.
+I learned about the main GPIO functions such as gpio_reset_pin, gpio_set_direction, gpio_set_level and gpio_get_level. 
+I also understood how these functions are used to control components like LEDs and buzzers, as well as how they can be used to read inputs from devices like push buttons.
+I also looked at the ESP32 pin layout to understand which GPIO pins are safe to use and which ones should be avoided because they are reserved for boot mode or other internal functions.
+This gave me a better understanding of how the ESP32 communicates with external hardware, which will be useful before starting the LED and sensor implementation.
