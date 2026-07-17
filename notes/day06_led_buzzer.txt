@@ -1,0 +1,8 @@
+Day 6 - LED + Buzzer Combined Logic
+
+Today I integrated the LED and buzzer into a single program to understand how multiple output devices can be controlled simultaneously using the ESP32.
+The LED was connected to GPIO4 through a current-limiting resistor, while the buzzer was connected to GPIO5. Both devices shared a common ground connection.
+I configured both GPIO pins as output pins and used gpio_set_level to switch them ON and OFF together. 
+A delay of two seconds was added between each state change to clearly observe the synchronized operation.
+This task demonstrated how multiple peripherals can be controlled within the same application.
+It also provided a foundation for implementing the alarm logic of the LPG Gas Leak Detector, where visual (LED) and audible (buzzer) alerts must activate together whenever a hazardous gas concentration is detected.
