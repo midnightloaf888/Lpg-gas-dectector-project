@@ -1,0 +1,11 @@
+Day 7 – Push Button Interface
+
+Today I worked on interfacing a push button with the ESP32 to understand how digital input devices communicate with the microcontroller.
+I connected the push button to GPIO18 using an external 10 kΩ pull-up resistor. 
+This ensured that the input pin remained in a stable HIGH state when the button was not pressed and changed to LOW when the button was pressed.
+Initially, I attempted to control an LED using the push button, but I observed inconsistent behaviour during testing. 
+To isolate the issue and verify that the button interface was functioning correctly, I simplified the program to continuously read the GPIO input and display the button state on the serial monitor every three seconds.
+By pressing and releasing the push button, I confirmed that the ESP32 was successfully detecting the digital input. 
+The serial monitor displayed a value of '1' when the button was released and '0' when it was pressed, confirming that the GPIO input was functioning as expected.
+This task helped me understand digital input handling, pull-up resistor operation, and how push buttons are interfaced with the ESP32. 
+These concepts will be useful in the upcoming stages of the LPG Gas Leak Detector project, where user input may be required for system control, calibration, or resetting alarms.
