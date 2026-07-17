@@ -15,10 +15,10 @@ void app_main(void)
     {
         gpio_set_level(BUZZER_PIN, 1);
         printf("Buzzer ON\n");
-        sleep(1);
+        sleep(2);
 
         gpio_set_level(BUZZER_PIN, 0);
         printf("Buzzer OFF\n");
-        sleep(1);
+        sleep(2);
     }
 }
