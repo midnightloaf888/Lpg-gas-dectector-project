@@ -6,13 +6,13 @@
 #include "freertos/task.h"
 
 #define ADC_UNIT       ADC_UNIT_1
-#define ADC_CHANNEL    ADC_CHANNEL_6     
+#define ADC_CHANNEL    ADC_CHANNEL_6      
 #define ADC_ATTEN      ADC_ATTEN_DB_12
 #define ADC_BITWIDTH   ADC_BITWIDTH_DEFAULT
 
 #define SAMPLE_COUNT   10
-#define SAMPLE_DELAY   500                
-#define AVERAGE_DELAY  3000              
+#define SAMPLE_DELAY   500                 
+#define AVERAGE_DELAY  3000                
 
 void app_main(void)
 {

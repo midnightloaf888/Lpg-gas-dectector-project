@@ -1,0 +1,721 @@
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 240
+Reading  2 : 241
+Reading  3 : 236
+Reading  4 : 237
+Reading  5 : 231
+Reading  6 : 239
+Reading  7 : 233
+Reading  8 : 237
+Reading  9 : 235
+Reading 10 : 240
+
+--------------------------------
+Average ADC Value : 236
+Average Voltage   : 0.19 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 235
+Reading  2 : 234
+Reading  3 : 237
+Reading  4 : 233
+Reading  5 : 229
+Reading  6 : 237
+Reading  7 : 235
+Reading  8 : 235
+Reading  9 : 237
+Reading 10 : 231
+
+--------------------------------
+Average ADC Value : 234
+Average Voltage   : 0.19 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 249
+Reading  2 : 338
+Reading  3 : 470
+Reading  4 : 576
+Reading  5 : 614
+Reading  6 : 650
+Reading  7 : 722
+Reading  8 : 1168
+Reading  9 : 1834
+Reading 10 : 2521
+
+--------------------------------
+Average ADC Value : 914
+Average Voltage   : 0.74 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 3671
+Reading  2 : 3779
+Reading  3 : 3898
+Reading  4 : 4095
+Reading  5 : 4095
+Reading  6 : 4095
+Reading  7 : 4095
+Reading  8 : 4095
+Reading  9 : 4048
+Reading 10 : 4014
+
+--------------------------------
+Average ADC Value : 3988
+Average Voltage   : 3.21 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 3248
+Reading  2 : 3170
+Reading  3 : 3179
+Reading  4 : 3008
+Reading  5 : 2975
+Reading  6 : 2921
+Reading  7 : 2854
+Reading  8 : 2747
+Reading  9 : 2647
+Reading 10 : 2556
+
+--------------------------------
+Average ADC Value : 2930
+Average Voltage   : 2.36 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 2442
+Reading  2 : 2446
+Reading  3 : 2417
+Reading  4 : 2365
+Reading  5 : 2310
+Reading  6 : 2251
+Reading  7 : 2191
+Reading  8 : 2112
+Reading  9 : 2035
+Reading 10 : 1968
+
+--------------------------------
+Average ADC Value : 2253
+Average Voltage   : 1.82 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1634
+Reading  2 : 1619
+Reading  3 : 1609
+Reading  4 : 1587
+Reading  5 : 1535
+Reading  6 : 1490
+Reading  7 : 1445
+Reading  8 : 1393
+Reading  9 : 1339
+Reading 10 : 1296
+
+--------------------------------
+Average ADC Value : 1494
+Average Voltage   : 1.20 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1168
+Reading  2 : 1159
+Reading  3 : 1146
+Reading  4 : 1125
+Reading  5 : 1110
+Reading  6 : 1103
+Reading  7 : 1098
+Reading  8 : 1095
+Reading  9 : 1094
+Reading 10 : 1086
+
+--------------------------------
+Average ADC Value : 1118
+Average Voltage   : 0.90 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 905
+Reading  2 : 880
+Reading  3 : 859
+Reading  4 : 835
+Reading  5 : 815
+Reading  6 : 795
+Reading  7 : 773
+Reading  8 : 753
+Reading  9 : 743
+Reading 10 : 724
+
+--------------------------------
+Average ADC Value : 808
+Average Voltage   : 0.65 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 661
+Reading  2 : 660
+Reading  3 : 656
+Reading  4 : 655
+Reading  5 : 660
+Reading  6 : 657
+Reading  7 : 660
+Reading  8 : 660
+Reading  9 : 667
+Reading 10 : 677
+
+--------------------------------
+Average ADC Value : 661
+Average Voltage   : 0.53 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 631
+Reading  2 : 622
+Reading  3 : 612
+Reading  4 : 592
+Reading  5 : 586
+Reading  6 : 576
+Reading  7 : 564
+Reading  8 : 559
+Reading  9 : 547
+Reading 10 : 542
+
+--------------------------------
+Average ADC Value : 583
+Average Voltage   : 0.47 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 492
+Reading  2 : 491
+Reading  3 : 489
+Reading  4 : 494
+Reading  5 : 496
+Reading  6 : 502
+Reading  7 : 497
+Reading  8 : 505
+Reading  9 : 511
+Reading 10 : 562
+
+--------------------------------
+Average ADC Value : 503
+Average Voltage   : 0.41 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 795
+Reading  2 : 783
+Reading  3 : 763
+Reading  4 : 751
+Reading  5 : 754
+Reading  6 : 752
+Reading  7 : 749
+Reading  8 : 746
+Reading  9 : 738
+Reading 10 : 767
+
+--------------------------------
+Average ADC Value : 759
+Average Voltage   : 0.61 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 786
+Reading  2 : 794
+Reading  3 : 793
+Reading  4 : 789
+Reading  5 : 773
+Reading  6 : 765
+Reading  7 : 736
+Reading  8 : 717
+Reading  9 : 691
+Reading 10 : 682
+
+--------------------------------
+Average ADC Value : 752
+Average Voltage   : 0.61 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 576
+Reading  2 : 562
+Reading  3 : 552
+Reading  4 : 545
+Reading  5 : 530
+Reading  6 : 522
+Reading  7 : 511
+Reading  8 : 505
+Reading  9 : 496
+Reading 10 : 484
+
+--------------------------------
+Average ADC Value : 528
+Average Voltage   : 0.43 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 450
+Reading  2 : 439
+Reading  3 : 438
+Reading  4 : 433
+Reading  5 : 431
+Reading  6 : 423
+Reading  7 : 425
+Reading  8 : 422
+Reading  9 : 421
+Reading 10 : 419
+
+--------------------------------
+Average ADC Value : 430
+Average Voltage   : 0.35 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 399
+Reading  2 : 400
+Reading  3 : 400
+Reading  4 : 400
+Reading  5 : 398
+Reading  6 : 396
+Reading  7 : 389
+Reading  8 : 394
+Reading  9 : 390
+Reading 10 : 386
+
+--------------------------------
+Average ADC Value : 395
+Average Voltage   : 0.32 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 373
+Reading  2 : 373
+Reading  3 : 370
+Reading  4 : 373
+Reading  5 : 368
+Reading  6 : 365
+Reading  7 : 368
+Reading  8 : 368
+Reading  9 : 367
+Reading 10 : 363
+
+--------------------------------
+Average ADC Value : 368
+Average Voltage   : 0.30 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 349
+Reading  2 : 350
+Reading  3 : 347
+Reading  4 : 350
+Reading  5 : 345
+Reading  6 : 341
+Reading  7 : 337
+Reading  8 : 339
+Reading  9 : 337
+Reading 10 : 337
+
+--------------------------------
+Average ADC Value : 343
+Average Voltage   : 0.28 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 334
+Reading  2 : 331
+Reading  3 : 330
+Reading  4 : 330
+Reading  5 : 326
+Reading  6 : 326
+Reading  7 : 320
+Reading  8 : 327
+Reading  9 : 329
+Reading 10 : 321
+
+--------------------------------
+Average ADC Value : 327
+Average Voltage   : 0.26 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 319
+Reading  2 : 318
+Reading  3 : 313
+Reading  4 : 314
+Reading  5 : 317
+Reading  6 : 314
+Reading  7 : 320
+Reading  8 : 366
+Reading  9 : 469
+Reading 10 : 576
+
+--------------------------------
+Average ADC Value : 362
+Average Voltage   : 0.29 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1318
+Reading  2 : 1347
+Reading  3 : 1335
+Reading  4 : 1297
+Reading  5 : 1261
+Reading  6 : 1214
+Reading  7 : 1173
+Reading  8 : 1170
+Reading  9 : 1222
+Reading 10 : 1296
+
+--------------------------------
+Average ADC Value : 1263
+Average Voltage   : 1.02 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1345
+Reading  2 : 1331
+Reading  3 : 1298
+Reading  4 : 1262
+Reading  5 : 1223
+Reading  6 : 1186
+Reading  7 : 1155
+Reading  8 : 1115
+����������������������������������������������������������������ding  9 : 1070
+Reading 10 : 1023
+
+--------------------------------
+Average ADC Value : 1200
+Average Voltage   : 0.97 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 774
+Reading  2 : 752
+Reading  3 : 721
+Reading  4 : 707
+Reading  5 : 672
+Reading  6 : 717
+Reading  7 : 772
+Reading  8 : 806
+Reading  9 : 819
+Reading 10 : 817
+
+--------------------------------
+Average ADC Value : 755
+Average Voltage   : 0.61 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1722
+Reading  2 : 1769
+Reading  3 : 1808
+Reading  4 : 1902
+Reading  5 : 2271
+Reading  6 : 2505
+Reading  7 : 2719
+Reading  8 : 3043
+Reading  9 : 3407
+Reading 10 : 4009
+
+--------------------------------
+Average ADC Value : 2515
+Average Voltage   : 2.03 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 4078
+Reading  2 : 3935
+Reading  3 : 3790
+Reading  4 : 3655
+Reading  5 : 3522
+Reading  6 : 3398
+Reading  7 : 3285
+Reading  8 : 3184
+Reading  9 : 3071
+Reading 10 : 2978
+
+--------------------------------
+Average ADC Value : 3489
+Average Voltage   : 2.81 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 2324
+Reading  2 : 2227
+Reading  3 : 2141
+Reading  4 : 2045
+Reading  5 : 1965
+Reading  6 : 1873
+Reading  7 : 1795
+Reading  8 : 1728
+Reading  9 : 1648
+Reading 10 : 1586
+
+--------------------------------
+Average ADC Value : 1933
+Average Voltage   : 1.56 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1218
+Reading  2 : 1187
+Reading  3 : 1161
+Reading  4 : 1137
+Reading  5 : 1111
+Reading  6 : 1106
+Reading  7 : 1085
+Reading  8 : 1069
+Reading  9 : 1056
+Reading 10 : 1050
+
+--------------------------------
+Average ADC Value : 1118
+Average Voltage   : 0.90 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1058
+Reading  2 : 1067
+Reading  3 : 1073
+Reading  4 : 1074
+Reading  5 : 1082
+Reading  6 : 1083
+Reading  7 : 1083
+Reading  8 : 1082
+Reading  9 : 1077
+Reading 10 : 1062
+
+--------------------------------
+Average ADC Value : 1074
+Average Voltage   : 0.87 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 943
+Reading  2 : 944
+Reading  3 : 930
+Reading  4 : 931
+Reading  5 : 915
+Reading  6 : 897
+Reading  7 : 879
+Reading  8 : 855
+Reading  9 : 832
+Reading 10 : 815
+
+--------------------------------
+Average ADC Value : 894
+Average Voltage   : 0.72 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 679
+Reading  2 : 662
+Reading  3 : 655
+Reading  4 : 638
+Reading  5 : 627
+Reading  6 : 609
+Reading  7 : 597
+Reading  8 : 579
+Reading  9 : 577
+Reading 10 : 578
+
+--------------------------------
+Average ADC Value : 620
+Average Voltage   : 0.50 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 591
+Reading  2 : 582
+Reading  3 : 578
+Reading  4 : 562
+Reading  5 : 560
+Reading  6 : 555
+Reading  7 : 549
+Reading  8 : 538
+Reading  9 : 536
+Reading 10 : 528
+
+--------------------------------
+Average ADC Value : 557
+Average Voltage   : 0.45 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 496
+Reading  2 : 496
+Reading  3 : 493
+Reading  4 : 489
+Reading  5 : 487
+Reading  6 : 482
+Reading  7 : 482
+Reading  8 : 475
+Reading  9 : 480
+Reading 10 : 471
+
+--------------------------------
+Average ADC Value : 485
+Average Voltage   : 0.39 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 459
+Reading  2 : 458
+Reading  3 : 449
+Reading  4 : 455
+Reading  5 : 453
+Reading  6 : 450
+Reading  7 : 449
+Reading  8 : 446
+Reading  9 : 446
+Reading 10 : 447
+
+--------------------------------
+Average ADC Value : 451
+Average Voltage   : 0.36 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 442
+Reading  2 : 435
+Reading  3 : 432
+Reading  4 : 435
+Reading  5 : 437
+Reading  6 : 433
+Reading  7 : 432
+Reading  8 : 432
+Reading  9 : 432
+Reading 10 : 431
+
+--------------------------------
+Average ADC Value : 434
+Average Voltage   : 0.35 V
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 422
+Reading  2 : 419
+Reading  3 : 421
+Reading  4 : 415
+Reading  5 : 418
+Reading  6 : 420
+Reading  7 : 411
+Reading  8 : 415
+Reading  9 : 415
+Reading 10 : 414
+
+--------------------------------
+Average ADC Value : 417
+Average Voltage   : 0.34 V
+--------------------------------
+Next set begins in 3 seconds...
+
+PS C:\Users\Administrator\Documents\aaryani test projects\sample_projectgas leak> 
