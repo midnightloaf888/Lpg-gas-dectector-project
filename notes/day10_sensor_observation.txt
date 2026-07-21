@@ -1,0 +1,6 @@
+Day 10 - Sensor ADC Reading Observation
+During normal conditions, the sensor readings remained mostly between approximately 250 and 270, corresponding to an estimated voltage of around 0.20 V to 0.22 V.
+When the sensor was exposed to a stronger stimulus, the ADC value increased noticeably and then gradually decreased again. 
+Some readings reached much higher values, including values above 1500 and, in one instance, the maximum ADC value of 4095.
+This confirmed that the ESP32 was successfully reading changes in the sensor's analog output. 
+The readings also showed natural fluctuations, which will be reduced using filtering and averaging during Day 11.

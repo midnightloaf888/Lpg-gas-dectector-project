@@ -1,0 +1,13 @@
+Day 9 – ADC Fundamentals Study
+
+Today I studied the fundamentals of the Analog-to-Digital Converter (ADC) used in the ESP32. 
+To build a strong understanding of the topic, I referred to multiple educational videos explaining how ADC works in both electronics and the ESP32.
+I learned that many real-world sensors, such as gas sensors, temperature sensors, light sensors, and potentiometers, produce analog voltages rather than digital signals. 
+Since a microcontroller can only process digital values, an ADC is required to convert these continuously varying voltages into digital numbers that the ESP32 can interpret.
+I also understood the basic principle of analog-to-digital conversion.
+The ADC samples the input voltage and converts it into a numerical value. On the ESP32, the ADC typically provides a 12-bit resolution, meaning the analog voltage can be represented by values ranging from 0 to 4095.
+A voltege close to 0 V produces a value near 0, while a voltage close to the reference voltage produces a value near 4095.
+During my study, I explored the ADC channels available on the ESP32 and learned the difference between ADC1 and ADC2.
+I also came across practical considerations such as noise, fluctuations in analog readings, and why filtering or averaging is often used to obtain more stable sensor values.
+I understood that the LPG gas sensor used in this project providesd ananalog output, making the ADC an essential part of the gas leak detection system.
+ The ESP32 will continuously monitor these analog values and use them in later stages of the project to determine nrmal, warning,and alarm conditions.

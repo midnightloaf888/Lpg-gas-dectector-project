@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <unistd.h>
+
 #include "esp_err.h"
 #include "esp_adc/adc_oneshot.h"
 
 #define ADC_UNIT       ADC_UNIT_1
-#define ADC_CHANNEL    ADC_CHANNEL_6  
+#define ADC_CHANNEL    ADC_CHANNEL_6   
 #define ADC_ATTEN      ADC_ATTEN_DB_12
 #define ADC_BITWIDTH   ADC_BITWIDTH_DEFAULT
 
@@ -32,22 +33,25 @@ void app_main(void)
             &channel_config
         )
     );
+
     int adc_raw;
+
     while (1)
     {
         ESP_ERROR_CHECK(
             adc_oneshot_read(
-                    adc_handle,
+                adc_handle,
                 ADC_CHANNEL,
                 &adc_raw
             )
         );
 
         float voltage = ((float)adc_raw / 4095.0f) * 3.3f;
+
         printf("ADC Value : %d\n", adc_raw);
         printf("Voltage   : %.2f V\n", voltage);
         printf("-----------------------------\n");
 
-        sleep(2);
+        sleep(1);
     }
 }
