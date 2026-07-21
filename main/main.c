@@ -6,15 +6,16 @@
 #include "freertos/task.h"
 
 #define ADC_UNIT        ADC_UNIT_1
-#define ADC_CHANNEL     ADC_CHANNEL_6       // GPIO34
+#define ADC_CHANNEL     ADC_CHANNEL_6     
 #define ADC_ATTEN       ADC_ATTEN_DB_12
 #define ADC_BITWIDTH    ADC_BITWIDTH_DEFAULT
 
 #define SAMPLE_COUNT    10
-#define SAMPLE_DELAY_MS 500                 // 0.5 seconds between readings
-#define RESULT_DELAY_MS 3000                // 3 seconds before next set
+#define SAMPLE_DELAY_MS 500                
+#define RESULT_DELAY_MS 3000                
 
-#define GAS_THRESHOLD   800
+#define WARNING_THRESHOLD 800
+#define DANGER_THRESHOLD  1500
 
 void app_main(void)
 {
@@ -76,15 +77,18 @@ void app_main(void)
         printf("\n--------------------------------\n");
         printf("Average ADC Value : %d\n", average_adc);
         printf("Average Voltage   : %.2f V\n", average_voltage);
-        printf("Threshold         : %d\n", GAS_THRESHOLD);
 
-        if (average_adc >= GAS_THRESHOLD)
+        if (average_adc < WARNING_THRESHOLD)
         {
-            printf("Status            : GAS DETECTED\n");
+            printf("Status            : NORMAL\n");
+        }
+        else if (average_adc < DANGER_THRESHOLD)
+        {
+            printf("Status            : WARNING\n");
         }
         else
         {
-            printf("Status            : NORMAL\n");
+            printf("Status            : DANGER\n");
         }
 
         printf("--------------------------------\n");
