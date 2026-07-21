@@ -1,0 +1,595 @@
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 257
+Reading  2 : 245
+Reading  3 : 240
+Reading  4 : 244
+Reading  5 : 246
+Reading  6 : 241
+Reading  7 : 240
+Reading  8 : 240
+Reading  9 : 243
+Reading 10 : 242
+
+--------------------------------
+Average ADC Value : 243
+Average Voltage   : 0.20 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 251
+Reading  2 : 241
+Reading  3 : 247
+Reading  4 : 247
+Reading  5 : 247
+Reading  6 : 250
+����������������������������������������������������������������eading  7 : 249
+Reading  8 : 248
+Reading  9 : 254
+Reading 10 : 250
+
+--------------------------------
+Average ADC Value : 248
+Average Voltage   : 0.20 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 245
+Reading  2 : 249
+Reading  3 : 247
+Reading  4 : 250
+Reading  5 : 256
+Reading  6 : 250
+Reading  7 : 249
+Reading  8 : 253
+Reading  9 : 253
+Reading 10 : 243
+
+--------------------------------
+Average ADC Value : 249
+Average Voltage   : 0.20 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 267
+Reading  2 : 227
+Reading  3 : 217
+Reading  4 : 242
+Reading  5 : 239
+Reading  6 : 4095
+Reading  7 : 4095
+Reading  8 : 4095
+Reading  9 : 4095
+Reading 10 : 4095
+
+--------------------------------
+Average ADC Value : 2166
+Average Voltage   : 1.75 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 3969
+Reading  2 : 3662
+Reading  3 : 3440
+Reading  4 : 3327
+Reading  5 : 3259
+����������������������������������������������������������������ding  6 : 3146
+Reading  7 : 3035
+Reading  8 : 2939
+Reading  9 : 2835
+Reading 10 : 2747
+
+--------------------------------
+Average ADC Value : 3235
+Average Voltage   : 2.61 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 2116
+Reading  2 : 2033
+Reading  3 : 1954
+Reading  4 : 1877
+Reading  5 : 1806
+Reading  6 : 1739
+Reading  7 : 1671
+Reading  8 : 1613
+Reading  9 : 1535
+Reading 10 : 1487
+
+--------------------------------
+Average ADC Value : 1783
+Average Voltage   : 1.44 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1130
+Reading  2 : 1089
+Reading  3 : 1053
+Reading  4 : 1014
+Reading  5 : 981
+Reading  6 : 955
+Reading  7 : 924
+Reading  8 : 905
+Reading  9 : 880
+Reading 10 : 854
+
+--------------------------------
+Average ADC Value : 978
+Average Voltage   : 0.79 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 728
+Reading  2 : 717
+Reading  3 : 698
+Reading  4 : 688
+Reading  5 : 679
+Reading  6 : 669
+Reading  7 : 655
+Reading  8 : 650
+Reading  9 : 637
+Reading 10 : 626
+
+--------------------------------
+Average ADC Value : 674
+Average Voltage   : 0.54 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 568
+Reading  2 : 574
+Reading  3 : 565
+Reading  4 : 560
+Reading  5 : 558
+Reading  6 : 549
+Reading  7 : 549
+Reading  8 : 544
+Reading  9 : 541
+Reading 10 : 537
+
+--------------------------------
+Average ADC Value : 554
+Average Voltage   : 0.45 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 506
+Reading  2 : 511
+Reading  3 : 498
+Reading  4 : 498
+Reading  5 : 495
+Reading  6 : 493
+Reading  7 : 493
+Reading  8 : 487
+Reading  9 : 474
+Reading 10 : 469
+
+--------------------------------
+Average ADC Value : 492
+Average Voltage   : 0.40 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 4095
+Reading  2 : 4095
+Reading  3 : 4095
+Reading  4 : 4095
+Reading  5 : 4095
+Reading  6 : 4095
+Reading  7 : 4095
+Reading  8 : 4095
+Reading  9 : 4095
+Reading 10 : 3952
+
+--------------------------------
+Average ADC Value : 4080
+Average Voltage   : 3.29 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 2901
+Reading  2 : 2804
+Reading  3 : 2694
+Reading  4 : 2590
+Reading  5 : 2483
+Reading  6 : 2385
+Reading  7 : 2295
+Reading  8 : 2214
+Reading  9 : 2128
+Reading 10 : 2047
+
+--------------------------------
+Average ADC Value : 2454
+Average Voltage   : 1.98 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1585
+Reading  2 : 1535
+Reading  3 : 1481
+Reading  4 : 1427
+Reading  5 : 1389
+Reading  6 : 1338
+Reading  7 : 1302
+Reading  8 : 1264
+Reading  9 : 1232
+Reading 10 : 1200
+
+--------------------------------
+Average ADC Value : 1375
+Average Voltage   : 1.11 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 955
+Reading  2 : 961
+Reading  3 : 944
+Reading  4 : 921
+Reading  5 : 902
+Reading  6 : 880
+Reading  7 : 855
+Reading  8 : 833
+Reading  9 : 813
+Reading 10 : 790
+
+--------------------------------
+Average ADC Value : 885
+Average Voltage   : 0.71 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 689
+Reading  2 : 651
+Reading  3 : 641
+Reading  4 : 638
+Reading  5 : 630
+Reading  6 : 625
+Reading  7 : 612
+Reading  8 : 609
+Reading  9 : 597
+Reading 10 : 593
+
+--------------------------------
+Average ADC Value : 628
+Average Voltage   : 0.51 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 4095
+Reading  2 : 4095
+Reading  3 : 4095
+Reading  4 : 4095
+Reading  5 : 4095
+Reading  6 : 4095
+Reading  7 : 4095
+Reading  8 : 4095
+Reading  9 : 4095
+Reading 10 : 4095
+
+--------------------------------
+Average ADC Value : 4095
+Average Voltage   : 3.30 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 3135
+Reading  2 : 3022
+Reading  3 : 2901
+Reading  4 : 2799
+Reading  5 : 2687
+Reading  6 : 2557
+Reading  7 : 2434
+Reading  8 : 2363
+Reading  9 : 2150
+Reading 10 : 1789
+
+--------------------------------
+Average ADC Value : 2583
+Average Voltage   : 2.08 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1099
+Reading  2 : 1045
+Reading  3 : 1003
+Reading  4 : 962
+Reading  5 : 931
+Reading  6 : 907
+Reading  7 : 885
+Reading  8 : 863
+Reading  9 : 839
+Reading 10 : 816
+
+--------------------------------
+Average ADC Value : 935
+Average Voltage   : 0.75 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 720
+Reading  2 : 693
+Reading  3 : 685
+Reading  4 : 670
+Reading  5 : 656
+Reading  6 : 644
+Reading  7 : 637
+Reading  8 : 631
+Reading  9 : 624
+Reading 10 : 615
+
+--------------------------------
+Average ADC Value : 657
+Average Voltage   : 0.53 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 578
+Reading  2 : 567
+Reading  3 : 560
+Reading  4 : 550
+Reading  5 : 543
+Reading  6 : 533
+Reading  7 : 528
+Reading  8 : 531
+Reading  9 : 510
+Reading 10 : 506
+
+--------------------------------
+Average ADC Value : 540
+Average Voltage   : 0.44 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 495
+Reading  2 : 494
+Reading  3 : 494
+Reading  4 : 493
+Reading  5 : 496
+Reading  6 : 490
+Reading  7 : 484
+Reading  8 : 486
+Reading  9 : 482
+Reading 10 : 478
+
+--------------------------------
+Average ADC Value : 489
+Average Voltage   : 0.39 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 451
+Reading  2 : 461
+Reading  3 : 463
+Reading  4 : 462
+Reading  5 : 457
+Reading  6 : 451
+Reading  7 : 451
+Reading  8 : 471
+Reading  9 : 469
+Reading 10 : 498
+
+--------------------------------
+Average ADC Value : 463
+Average Voltage   : 0.37 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 1186
+Reading  2 : 1159
+Reading  3 : 1130
+Reading  4 : 1090
+Reading  5 : 1054
+Reading  6 : 1009
+Reading  7 : 972
+Reading  8 : 942
+Reading  9 : 906
+Reading 10 : 875
+
+--------------------------------
+Average ADC Value : 1032
+Average Voltage   : 0.83 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 671
+Reading  2 : 586
+Reading  3 : 587
+Reading  4 : 586
+Reading  5 : 578
+Reading  6 : 583
+Reading  7 : 567
+Reading  8 : 559
+Reading  9 : 557
+Reading 10 : 542
+
+--------------------------------
+Average ADC Value : 581
+Average Voltage   : 0.47 V
+Threshold         : 800
+Status            : NORMAL
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 4095
+Reading  2 : 4095
+Reading  3 : 4095
+Reading  4 : 4095
+Reading  5 : 4095
+Reading  6 : 4095
+Reading  7 : 4095
+Reading  8 : 4095
+Reading  9 : 4095
+Reading 10 : 4095
+
+--------------------------------
+Average ADC Value : 4095
+Average Voltage   : 3.30 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 4002
+Reading  2 : 3846
+Reading  3 : 3701
+Reading  4 : 3550
+Reading  5 : 3427
+Reading  6 : 3282
+Reading  7 : 3162
+Reading  8 : 3029
+Reading  9 : 2919
+Reading 10 : 2794
+
+--------------------------------
+Average ADC Value : 3371
+Average Voltage   : 2.72 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+================================
+Collecting 10 ADC readings
+================================
+Reading  1 : 2078
+Reading  2 : 1957
+Reading  3 : 1872
+Reading  4 : 1782
+Reading  5 : 1699
+Reading  6 : 1621
+Reading  7 : 1535
+Reading  8 : 1466
+Reading  9 : 1379
+Reading 10 : 1321
+
+--------------------------------
+Average ADC Value : 1671
+Average Voltage   : 1.35 V
+Threshold         : 800
+Status            : GAS DETECTED
+--------------------------------
+Next set begins in 3 seconds...
+
+PS C:\Users\Administrator\Documents\aaryani test projects\sample_projectgas leak> 
