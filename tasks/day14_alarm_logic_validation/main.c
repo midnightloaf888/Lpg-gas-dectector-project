@@ -7,7 +7,7 @@
 #include "freertos/task.h"
 
 #define ADC_UNIT        ADC_UNIT_1
-#define ADC_CHANNEL     ADC_CHANNEL_6      // GPIO34
+#define ADC_CHANNEL     ADC_CHANNEL_6      
 #define ADC_ATTEN       ADC_ATTEN_DB_12
 #define ADC_BITWIDTH    ADC_BITWIDTH_DEFAULT
 
@@ -15,7 +15,7 @@
 #define BUZZER_PIN      GPIO_NUM_26
 
 #define WARNING_THRESHOLD  700
-#define DANGER_THRESHOLD   1250
+#define DANGER_THRESHOLD   1350
 
 #define SENSOR_DELAY_MS     100
 #define DISPLAY_DELAY_MS    2000

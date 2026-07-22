@@ -1,0 +1,417 @@
+--------------------------------
+ADC Value : 273
+Voltage   : 0.22 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 274
+Voltage   : 0.22 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 247
+Voltage   : 0.20 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 243
+Voltage   : 0.20 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 244
+Voltage   : 0.20 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 272
+Voltage   : 0.22 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 368
+Voltage   : 0.30 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 882
+Voltage   : 0.71 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 845
+Voltage   : 0.68 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 851
+Voltage   : 0.69 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 781
+Voltage   : 0.63 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 688
+Voltage   : 0.55 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 807
+Voltage   : 0.65 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 901
+Voltage   : 0.73 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 2255
+Voltage   : 1.82 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 2737
+Voltage   : 2.21 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 2423
+Voltage   : 1.95 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 2068
+Voltage   : 1.67 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 1729
+Voltage   : 1.39 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 1421
+Voltage   : 1.15 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 1163
+Voltage   : 0.94 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 891
+Voltage   : 0.72 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 746
+Voltage   : 0.60 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 733
+Voltage   : 0.59 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 669
+Voltage   : 0.54 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 608
+Voltage   : 0.49 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 592
+Voltage   : 0.48 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 552
+Voltage   : 0.44 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 503
+Voltage   : 0.41 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 467
+Voltage   : 0.38 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 436
+Voltage   : 0.35 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 411
+Voltage   : 0.33 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 400
+Voltage   : 0.32 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 382
+Voltage   : 0.31 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 362
+Voltage   : 0.29 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 346
+Voltage   : 0.28 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 4095
+Voltage   : 3.30 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 3475
+Voltage   : 2.80 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 2968
+Voltage   : 2.39 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 2530
+Voltage   : 2.04 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 1872
+Voltage   : 1.51 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 1289
+Voltage   : 1.04 V
+Status    : DANGER
+LED       : ON
+Buzzer    : ON
+--------------------------------
+
+--------------------------------
+ADC Value : 1003
+Voltage   : 0.81 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 868
+Voltage   : 0.70 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 768
+Voltage   : 0.62 V
+Status    : WARNING
+LED       : ON
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 674
+Voltage   : 0.54 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 605
+Voltage   : 0.49 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 560
+Voltage   : 0.45 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 508
+Voltage   : 0.41 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 474
+Voltage   : 0.38 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 451
+Voltage   : 0.36 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+--------------------------------
+ADC Value : 430
+Voltage   : 0.35 V
+Status    : NORMAL
+LED       : OFF
+Buzzer    : OFF
+--------------------------------
+
+PS C:\Users\Administrator\Documents\aaryani test projects\sample_projectgas leak> 

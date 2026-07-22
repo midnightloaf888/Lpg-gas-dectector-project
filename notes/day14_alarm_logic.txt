@@ -1,0 +1,37 @@
+Day 14 - Alarm Logic Validation
+
+Objective:
+To integrate the gas sensor, LED and buzzer into a complete gas leak detection system. 
+The system continuously monitors the gas sensor, compares the ADC value with predefined thresholds and activates the appropriate alarm outputs.
+
+Implementation:
+The ESP32 reads the TGS2610 sensor every 100 ms and classifies the gas concentration into three states:
+
+NORMAL
+WARNING
+DANGER
+
+The alarm logic is as follows:
+
+normal  - LED OFF, Buzzer OFF
+warning - LED ON, Buzzer OFF
+danger - LED ON, Buzzer ON
+
+The sensor is read continuously for quick response, while the ADC value, voltage and system status are displayed on the Serial Monitor every 2 seconds for easier observation.
+
+Observations:
+Multiple trials were carried out to obtain consistent and accurate sensor readings.
+During testing, it was observed that although the smell of gas was noticeable, the buzzer was not activating because the initial threshold values were set too high.
+
+To improve the detector's response, the threshold values were adjusted based on the experimental readings:
+
+Warning Threshold: Changed from 800 ADC to 700 ADC
+Danger Threshold: Changed from 1500 ADC to 1350 ADC
+
+After updating these threshold values, the system responded more accurately to gas exposure.
+The LED and buzzer activated at the expected gas concentrations, making the detector more reliable during testing.
+
+Conclusion:
+The complete alarm system was successfully implemented and validated. 
+The ESP32 was able to continuously monitor the gas sensor, determine the appropriate system state and control the LED and buzzer accordingly.
+This marks the first fully integrated version of the gas leak detection system.
