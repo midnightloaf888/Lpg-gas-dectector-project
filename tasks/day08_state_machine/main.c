@@ -26,11 +26,6 @@ void app_main(void)
     {
         int current_button_state = gpio_get_level(BUTTON_PIN);
 
-        /*
-         * Day 7 board appears to use:
-         * Released = 1
-         * Pressed  = 0
-         */
         if (previous_button_state == 1 &&
             current_button_state == 0)
         {
@@ -50,11 +45,11 @@ void app_main(void)
                 printf("Current State: NORMAL\n");
             }
 
-            usleep(200000); // 200 ms debounce delay
+            usleep(200000);
         }
 
         previous_button_state = current_button_state;
 
-        usleep(20000); // 20 ms checking delay
+        usleep(20000); 
     }
 }

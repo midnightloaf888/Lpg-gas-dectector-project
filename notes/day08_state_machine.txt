@@ -1,0 +1,26 @@
+Day 8 – State Machine Implementation
+
+Objective:
+To understand the concept of a state machine using a push button to manually transition between different system states.
+
+Implementation:
+A state machine with three states was implemented:
+• NORMAL
+• WARNING
+• DANGER
+
+The push button was used to cycle through these states. Each button press changed the system to the next state in the sequence.
+
+State Transition:
+Initial State → NORMAL
+1st Button Press → WARNING
+2nd Button Press → DANGER
+3rd Button Press → NORMAL
+
+The current state was displayed on the Serial Monitor after each valid button press.
+
+Observations:
+Initially, the push button was not being detected. Multiple troubleshooting steps were performed, including checking the GPIO configuration, testing different software approaches, verifying the wiring, and debugging the button logic. After multiple trials and errors, the issue was resolved, and the state machine functioned correctly. The button successfully cycled through the three states in the expected order.
+
+Conclusion:
+This experiment demonstrated the working of a basic finite state machine (FSM), where a single input (push button) controlled the transition between predefined system states. This concept forms the foundation for the later stages of the gas leak detector, where the sensor readings will automatically determine the system state instead of a manual button press.
