@@ -1,0 +1,8 @@
+Day 16 - Alarm Validation with LCD
+
+Today I worked on integrating the LCD with my existing gas sensor setup for alarm validation.
+The setup took quite a bit of time because I wasn’t using an I2C LCD. 
+So I had to connect all the LCD pins individually and make sure there were no pin conflicts with the sensor, LED and buzzer.
+After completing the setup, I tested the system today and it worked perfectly. 
+The sensor readings and alarm status shown on the serial monitor were also being displayed correctly on the LCD.
+This helped me confirm that the LCD was properly integrated with the complete alarm setup.
