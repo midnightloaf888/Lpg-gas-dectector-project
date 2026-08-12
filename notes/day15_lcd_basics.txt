@@ -1,0 +1,8 @@
+Day 15 - LCD Basics
+
+Today I worked on understanding the basics of the 16x2 LCD and tried to display a simple message on it.
+I faced a few issues while setting it up, and it took me around two days to get it working properly.
+ At first, I realised that I needed a potentiometer to control the LCD contrast.
+Even after adding it, I was only seeing rectangle boxes and later some random characters on the display.
+ I checked the wiring and made a few changes to the LCD initialization code.
+After some trial and error, I was finally able to successfully display “Hello Aaryani!” on the LCD.
