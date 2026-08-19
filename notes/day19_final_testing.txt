@@ -1,0 +1,8 @@
+Day 19 - Dashboard & Output Integration
+Finally got the correct ADC threshold values working on the dashboard.
+Fixed the dashboard issue where the ADC readings were not updating live.
+Dashboard now correctly shows Normal, Warning, and Danger levels based on the ADC value.
+Updated the LCD display - instead of only showing LED and buzzer status, it now displays the ADC value and the current threshold/status level.
+Added Wi-Fi and MQTT connection status to the LCD, so we can see when both connections are active.
+Made further changes to the LED/buzzer logic to work with the updated threshold system.
+Tested the complete integration with the ESP32, MQTT, PostgreSQL, and dashboard.
