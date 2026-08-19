@@ -1,0 +1,8 @@
+Day 17 - Integration 
+Integrated the ESP32 gas sensor, LCD, LED, buzzer, and MQTT into the VS Code project.
+Configured LED - GPIO 25 and Buzzer - GPIO 32.
+Tested the LCD and confirmed the sensor readings are displayed correctly.
+Added MQTT publishing to the topic esp32/gas.
+Used Mosquitto Subscriber to verify that ADC values are being sent successfully.
+Serial Monitor now shows the ADC value, voltage, status, LED/buzzer state, MQTT status, topic, and message ID.
+Confirmed that the MQTT messages are being received in real time.
